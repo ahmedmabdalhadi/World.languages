@@ -1,7 +1,4 @@
 # 📃 Duolingo Clone: Learn Languages with Fun!
-
-![Alt text](https://lingo.mohnd-code.com/hero.svg)
-
 This project is a full-fledged Duolingo clone built with Next.js, Drizzle for data management, PostgresQL as the database, and Neon for serverless deployment. It provides a gamified and engaging platform for users to learn languages effectively.
 
 
