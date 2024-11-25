@@ -4,7 +4,6 @@
 
 This project is a full-fledged Duolingo clone built with Next.js, Drizzle for data management, PostgresQL as the database, and Neon for serverless deployment. It provides a gamified and engaging platform for users to learn languages effectively.
 
-- https://lingo.mohnd-code.com/
 
 ## 💻 Technologies Used:
 
