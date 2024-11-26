@@ -3,11 +3,11 @@ This project is a full-fledged Duolingo clone built with Next.js, Drizzle for da
 
 
 # 📃 Al Azhar University 
-Youssef Muhammad Miqdad                                        20202559 
-Amal Muhammad Al-Harazin                                       20203341 
-Shadi Iyad Abu Harbid                                          20203312    
-Youssef Osama Saeed Skaik                                      20203129 
-Ahmed Munther Abdel Hadi                                       20203367 
+- Youssef Muhammad Miqdad                                        20202559 
+- Amal Muhammad Al-Harazin                                       20203341 
+- Shadi Iyad Abu Harbid                                          20203312    
+- Youssef Osama Saeed Skaik                                      20203129 
+- Ahmed Munther Abdel Hadi                                       20203367 
 
  # 📃 SUPERVISED BY          Dr: Ayad Al-Bayouk 
 
