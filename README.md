@@ -2,6 +2,16 @@
 This project is a full-fledged Duolingo clone built with Next.js, Drizzle for data management, PostgresQL as the database, and Neon for serverless deployment. It provides a gamified and engaging platform for users to learn languages effectively.
 
 
+# 📃 Al Azhar University 
+Youssef Muhammad Miqdad                                        20202559 
+Amal Muhammad Al-Harazin                                       20203341 
+Shadi Iyad Abu Harbid                                          20203312    
+Youssef Osama Saeed Skaik                                      20203129 
+Ahmed Munther Abdel Hadi                                       20203367 
+
+ # 📃 SUPERVISED BY          Dr: Ayad Al-Bayouk 
+
+
 ## 💻 Technologies Used:
 
 - Frontend: Next.js (React framework)
@@ -116,7 +126,3 @@ We welcome contributions from the community! Feel free to fork the repository, m
 ## 🔰 License
 
 This project is licensed under the MIT License
-
-## 📬 Feedback
-
-If you have any feedback, please reach out to us at info@mohnd-info.com
